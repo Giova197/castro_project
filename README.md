@@ -15,7 +15,7 @@ To see the swagger go to
 http://localhost:5000/index.html .
 
 On this page you can see the diagram of the input and output produced.
-Pressing on GET / Product and subsequent du "try it out" and then on "execute we can see the result where you can filter by price and category.
+Pressing on GET / Product and subsequent du "try it out" and then on "execute we can see the result.
 
 -To make the request I used Postman. With the GET command http://localhost:5000/product .
 
