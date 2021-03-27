@@ -1,0 +1,12 @@
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\bin\Debug\netstandard2.0\CastroProgetto.Persistence.deps.json
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\bin\Debug\netstandard2.0\CastroProgetto.Persistence.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\bin\Debug\netstandard2.0\CastroProgetto.Persistence.pdb
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\bin\Debug\netstandard2.0\CastroProgetto.Domain.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\bin\Debug\netstandard2.0\CastroProgetto.Domain.pdb
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\obj\Debug\netstandard2.0\CastroProgetto.Persistence.csprojAssemblyReference.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\obj\Debug\netstandard2.0\CastroProgetto.Persistence.AssemblyInfoInputs.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\obj\Debug\netstandard2.0\CastroProgetto.Persistence.AssemblyInfo.cs
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\obj\Debug\netstandard2.0\CastroProgetto.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\obj\Debug\netstandard2.0\CastroProgetto.Persistence.csproj.CopyComplete
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\obj\Debug\netstandard2.0\CastroProgetto.Persistence.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Persistence\obj\Debug\netstandard2.0\CastroProgetto.Persistence.pdb

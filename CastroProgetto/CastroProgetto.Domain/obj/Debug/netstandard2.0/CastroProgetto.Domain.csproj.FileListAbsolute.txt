@@ -1,0 +1,9 @@
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\bin\Debug\netstandard2.0\CastroProgetto.Domain.deps.json
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\bin\Debug\netstandard2.0\CastroProgetto.Domain.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\bin\Debug\netstandard2.0\CastroProgetto.Domain.pdb
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\obj\Debug\netstandard2.0\CastroProgetto.Domain.csprojAssemblyReference.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\obj\Debug\netstandard2.0\CastroProgetto.Domain.AssemblyInfoInputs.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\obj\Debug\netstandard2.0\CastroProgetto.Domain.AssemblyInfo.cs
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\obj\Debug\netstandard2.0\CastroProgetto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\obj\Debug\netstandard2.0\CastroProgetto.Domain.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Domain\obj\Debug\netstandard2.0\CastroProgetto.Domain.pdb

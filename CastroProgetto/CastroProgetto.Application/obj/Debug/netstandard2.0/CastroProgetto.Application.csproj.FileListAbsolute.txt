@@ -1,0 +1,14 @@
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\bin\Debug\netstandard2.0\CastroProgetto.Application.deps.json
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\bin\Debug\netstandard2.0\CastroProgetto.Application.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\bin\Debug\netstandard2.0\CastroProgetto.Application.pdb
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\bin\Debug\netstandard2.0\CastroProgetto.Domain.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\bin\Debug\netstandard2.0\CastroProgetto.Persistence.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\bin\Debug\netstandard2.0\CastroProgetto.Persistence.pdb
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\bin\Debug\netstandard2.0\CastroProgetto.Domain.pdb
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\obj\Debug\netstandard2.0\CastroProgetto.Application.csprojAssemblyReference.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\obj\Debug\netstandard2.0\CastroProgetto.Application.AssemblyInfoInputs.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\obj\Debug\netstandard2.0\CastroProgetto.Application.AssemblyInfo.cs
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\obj\Debug\netstandard2.0\CastroProgetto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\obj\Debug\netstandard2.0\CastroProgetto.Application.csproj.CopyComplete
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\obj\Debug\netstandard2.0\CastroProgetto.Application.dll
+C:\Users\Vincenzo\Documents\personale\castro_progetto\CastroProgetto\CastroProgetto.Application\obj\Debug\netstandard2.0\CastroProgetto.Application.pdb
